@@ -201,6 +201,9 @@ input {
         padding: 30px;
     }
 
+    #Trending-nav {
+        margin-top: 0px;
+    }
     #Trending-nav h1 {
         font-size: 25px;
     }
