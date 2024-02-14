@@ -137,6 +137,7 @@ input {
     padding: 20px 60px;
 }
 
+
 #country {
     background-color: #171717;
     padding: 15px 10px;
@@ -182,6 +183,10 @@ input {
         margin: 50px;
     }
 
+    input {
+        width: calc(100% - 20%);
+    }
+
     #language {
         flex-wrap: wrap;
         gap: 10px;
@@ -191,6 +196,10 @@ input {
     #hr {
         margin-right: 10px;
         margin-left: 10px;
+    }
+
+    #trending-info h2 {
+        font-size: 20px;
     }
 
     #hr-footer {
